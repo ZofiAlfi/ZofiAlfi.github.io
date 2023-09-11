@@ -7,7 +7,7 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 }
-html {
+body {
     background-image: url("https://telegra.ph/file/0b11f0264e4db2860c082.jpg");
     background-size: cover;
     background-position: center;
