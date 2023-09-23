@@ -42,6 +42,7 @@ nav li {
     background-image: url("https://telegra.ph/file/0b11f0264e4db2860c082.jpg");
     background-size: cover;
     background-position: center;
+    background-attachment: fixed;
     display: flex;
     align-items: center;
     justify-content: center;
