@@ -144,6 +144,9 @@ footer {
 .fa-github {
     color: white;
 }
+.fa-link {
+    color: white;
+}
 @media screen and (max-width: 425px) {
 
 .profile-box {
